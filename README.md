@@ -27,13 +27,13 @@ Collection of rom decryptors that I use frequently
 
 Place the encrypted rom files in the folder for the game that you are decrypting for and run the .bat and it will decrypt the rom files so you can use them in emulators\
 
-You can get the emulator files from https://r-roms.github.io/\
+You can get the emulator files from https://r-roms.github.io/
 
-The emulator that I use is [Retro Arch](https://www.retroarch.com/)\
+The emulator that I use is [Retro Arch](https://www.retroarch.com/)
 
-For switch emulation I use is [Suyu](https://suyu.dev/). The setup guide for use of this emulator is [here](https://suyuemulator.com/setup/)\
+For switch emulation I use is [Suyu](https://suyu.dev/). The setup guide for use of this emulator is [here](https://suyuemulator.com/setup/)
 
-For switch rom files I use [NXBrew](https://nxbrew.net/)\
+For switch rom files I use [NXBrew](https://nxbrew.net/)
 
 When installing switch games to suyu, you can click File > Install Files to NAND to install DLC, game updates, etc. 
 
