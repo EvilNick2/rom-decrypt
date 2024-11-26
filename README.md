@@ -31,6 +31,8 @@ You can get the emulator files from https://r-roms.github.io/
 
 The emulator that I use is [Retro Arch](https://www.retroarch.com/)
 
+### Switch Emulation
+
 For switch emulation I use is [Suyu](https://suyu.dev/). The setup guide for use of this emulator is [here](https://suyuemulator.com/setup/)
 
 For switch rom files I use [NXBrew](https://nxbrew.net/)
