@@ -25,7 +25,7 @@ Collection of rom decryptors that I use frequently
 
 ## :checkered_flag: Using ##
 
-Place the encrypted rom files in the folder for the game that you are decrypting for and run the .bat and it will decrypt the rom files so you can use them in emulators\
+Place the encrypted rom files in the folder for the game that you are decrypting for and run the .bat and it will decrypt the rom files so you can use them in emulators
 
 You can get the emulator files from https://r-roms.github.io/
 
